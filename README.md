@@ -1,4 +1,4 @@
-### Hello there! 👋 I'm Hugo Garcia
+# Hello there! 👋 I'm Hugo Garcia
 Junior Developer | Technology Enthusiast
 Welcome to my GitHub profile! I am a passionate junior developer with a strong interest in software development. My goal is to keep learning and growing as a professional while contributing to the exciting world of programming.
 
